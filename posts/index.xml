@@ -1,24 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on 杂货铺</title>
-    <link>https://george-tmz.github.io/posts/</link>
-    <description>Recent content in Posts on 杂货铺</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-Hans</language>
-    <lastBuildDate>Wed, 18 Nov 2020 20:57:10 +0800</lastBuildDate>
-    
-	<atom:link href="https://george-tmz.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>开博大吉</title>
-      <link>https://george-tmz.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
-      <pubDate>Wed, 18 Nov 2020 20:57:10 +0800</pubDate>
-      
-      <guid>https://george-tmz.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
-      <description>大家好</description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - 杂货铺</title>
+        <link>https://george-tmz.github.io/posts/</link>
+        <description>所有文章 | 杂货铺</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 18 Nov 2020 20:57:10 &#43;0800</lastBuildDate><atom:link href="https://george-tmz.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>开博大吉</title>
+    <link>https://george-tmz.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
+    <pubDate>Wed, 18 Nov 2020 20:57:10 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://george-tmz.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
+    <description><![CDATA[大家好]]></description>
+</item></channel>
 </rss>
