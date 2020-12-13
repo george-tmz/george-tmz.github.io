@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Git Pages - 标签 - 杂货铺</title>
+        <link>https://george-tmz.github.io/tags/git-pages/</link>
+        <description>Git Pages - 标签 - 杂货铺</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jobsteng@163.com (XXX)</managingEditor>
+            <webMaster>jobsteng@163.com (XXX)</webMaster><lastBuildDate>Thu, 19 Nov 2020 23:31:21 &#43;0800</lastBuildDate><atom:link href="https://george-tmz.github.io/tags/git-pages/" rel="self" type="application/rss+xml" /><item>
+    <title>用Hugo、Githup Pages搭建个人博客</title>
+    <link>https://george-tmz.github.io/posts/%E7%94%A8hugogit%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+    <pubDate>Thu, 19 Nov 2020 23:31:21 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://george-tmz.github.io/posts/%E7%94%A8hugogit%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+    <description><![CDATA[最近学习了用Hugo,Githup Pages搭建个人博客。在此记录一下 Hugo,Githup Pages是什么 Hugo go语言开放的静态博客生成器 Github Pages github的免]]></description>
+</item></channel>
+</rss>
