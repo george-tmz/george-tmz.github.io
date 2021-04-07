@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>yyy - 分类 - 杂货铺</title>
+        <link>https://george-tmz.github.io/categories/yyy/</link>
+        <description>yyy - 分类 - 杂货铺</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jobsteng@163.com (XXX)</managingEditor>
+            <webMaster>jobsteng@163.com (XXX)</webMaster><lastBuildDate>Wed, 18 Nov 2020 20:57:10 &#43;0800</lastBuildDate><atom:link href="https://george-tmz.github.io/categories/yyy/" rel="self" type="application/rss+xml" /><item>
+    <title>开博大吉</title>
+    <link>https://george-tmz.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
+    <pubDate>Wed, 18 Nov 2020 20:57:10 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://george-tmz.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
+    <description><![CDATA[大家好]]></description>
+</item></channel>
+</rss>
