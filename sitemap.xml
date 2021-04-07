@@ -2,7 +2,6 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-<<<<<<< HEAD
             <loc>https://george-tmz.github.io/categories/</loc><lastmod>2020-11-18T20:57:10&#43;08:00</lastmod></url><url>
             <loc>https://george-tmz.github.io/tags/java/</loc><lastmod>2020-11-18T20:57:10&#43;08:00</lastmod></url><url>
             <loc>https://george-tmz.github.io/posts/java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%8E%9F%E7%90%86/</loc><lastmod>2020-11-18T20:57:10&#43;08:00</lastmod></url><url>
@@ -11,18 +10,3 @@
             <loc>https://george-tmz.github.io/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/</loc><lastmod>2020-11-18T20:57:10&#43;08:00</lastmod></url><url>
             <loc>https://george-tmz.github.io/</loc><lastmod>2020-11-18T20:57:10&#43;08:00</lastmod></url><url>
             <loc>https://george-tmz.github.io/categories/%E7%A1%AC%E6%A0%B8%E7%A9%BA%E9%97%B4java%E8%AF%BE%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc><lastmod>2020-11-18T20:57:10&#43;08:00</lastmod></url></urlset>
-=======
-            <loc>https://george-tmz.github.io/categories/</loc><lastmod>2020-11-21T22:13:27&#43;08:00</lastmod></url><url>
-            <loc>https://george-tmz.github.io/tags/maven/</loc><lastmod>2020-11-21T22:13:27&#43;08:00</lastmod></url><url>
-            <loc>https://george-tmz.github.io/posts/maven%E7%9A%84%E4%BE%9D%E8%B5%96%E7%AE%A1%E7%90%86/</loc><lastmod>2020-11-21T22:13:27&#43;08:00</lastmod></url><url>
-            <loc>https://george-tmz.github.io/posts/</loc><lastmod>2020-11-21T22:13:27&#43;08:00</lastmod></url><url>
-            <loc>https://george-tmz.github.io/tags/</loc><lastmod>2020-11-21T22:13:27&#43;08:00</lastmod></url><url>
-            <loc>https://george-tmz.github.io/</loc><lastmod>2020-11-21T22:13:27&#43;08:00</lastmod></url><url>
-            <loc>https://george-tmz.github.io/categories/%E7%A1%AC%E6%A0%B8%E7%A9%BA%E9%97%B4java%E8%AF%BE%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc><lastmod>2020-11-21T22:13:27&#43;08:00</lastmod></url><url>
-            <loc>https://george-tmz.github.io/tags/git-pages/</loc><lastmod>2020-11-19T23:31:21&#43;08:00</lastmod></url><url>
-            <loc>https://george-tmz.github.io/tags/hugo/</loc><lastmod>2020-11-19T23:31:21&#43;08:00</lastmod></url><url>
-            <loc>https://george-tmz.github.io/tags/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc><lastmod>2020-11-19T23:31:21&#43;08:00</lastmod></url><url>
-            <loc>https://george-tmz.github.io/posts/%E7%94%A8hugogit%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc><lastmod>2020-11-19T23:31:21&#43;08:00</lastmod></url><url>
-            <loc>https://george-tmz.github.io/categories/yyy/</loc><lastmod>2020-11-18T20:57:10&#43;08:00</lastmod></url><url>
-            <loc>https://george-tmz.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</loc><lastmod>2020-11-18T20:57:10&#43;08:00</lastmod></url></urlset>
->>>>>>> main

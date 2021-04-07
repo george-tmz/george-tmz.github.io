@@ -4,33 +4,11 @@
         <link>https://george-tmz.github.io/</link>
         <description>XXX的个人博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jobsteng@163.com (XXX)</managingEditor>
-<<<<<<< HEAD
             <webMaster>jobsteng@163.com (XXX)</webMaster><lastBuildDate>Wed, 18 Nov 2020 20:57:10 &#43;0800</lastBuildDate>
             <atom:link href="https://george-tmz.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Java多线程原理</title>
     <link>https://george-tmz.github.io/posts/java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%8E%9F%E7%90%86/</link>
-=======
-            <webMaster>jobsteng@163.com (XXX)</webMaster><lastBuildDate>Sat, 21 Nov 2020 22:13:27 &#43;0800</lastBuildDate>
-            <atom:link href="https://george-tmz.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>Maven的依赖管理</title>
-    <link>https://george-tmz.github.io/posts/maven%E7%9A%84%E4%BE%9D%E8%B5%96%E7%AE%A1%E7%90%86/</link>
-    <pubDate>Sat, 21 Nov 2020 22:13:27 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://george-tmz.github.io/posts/maven%E7%9A%84%E4%BE%9D%E8%B5%96%E7%AE%A1%E7%90%86/</guid>
-    <description><![CDATA[安装吃吃吃吃吃吃]]></description>
-</item><item>
-    <title>用Hugo、Githup Pages搭建个人博客</title>
-    <link>https://george-tmz.github.io/posts/%E7%94%A8hugogit%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
-    <pubDate>Thu, 19 Nov 2020 23:31:21 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://george-tmz.github.io/posts/%E7%94%A8hugogit%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
-    <description><![CDATA[最近学习了用Hugo,Githup Pages搭建个人博客。在此记录一下 Hugo,Githup Pages是什么 Hugo go语言开放的静态博客生成器 Github Pages github的免]]></description>
-</item><item>
-    <title>开博大吉</title>
-    <link>https://george-tmz.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
->>>>>>> main
     <pubDate>Wed, 18 Nov 2020 20:57:10 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://george-tmz.github.io/posts/java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%8E%9F%E7%90%86/</guid>
